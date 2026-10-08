@@ -1,0 +1,7 @@
+{
+  "name": "منصة العمل عبر الإنترنت التفاعلية",
+  "description": "منصة تعليمية ذكية لمحاكاة دروس الوحدة الثانية: العمل عبر الإنترنت - التقنية الرقمية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
